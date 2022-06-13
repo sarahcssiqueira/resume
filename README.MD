@@ -1,1 +1,3 @@
-Thats a resume online using HTML, CSS, Bootstrap and Javascript.
+# Thats a resume online
+
+Built using HTML, CSS, Bootstrap and Javascript.
